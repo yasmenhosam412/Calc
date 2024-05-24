@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "343546979571",
+    "project_id": "calc-69d83",
+    "storage_bucket": "calc-69d83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343546979571:android:32055ec7b15b2c6db40386",
+        "android_client_info": {
+          "package_name": "com.example.calc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpgNO23phxtDrLOetXoa3bVGKEuqBV_vQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
